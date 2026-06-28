@@ -1,5 +1,5 @@
 echo "# eksa" >> README.md
-git init
+git i
 git add README.md
 git commit -m "first commit"
 git branch -M main
