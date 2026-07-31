@@ -1,6 +1,6 @@
 echo "# eksa" >> README.md
 git i
-git add README.md
+git add RME.md
 gitommit -m "fit commit"
 git branch -M main
 gmote  o hpsgithub.com/san/azza/eksa.git
